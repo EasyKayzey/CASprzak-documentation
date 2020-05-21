@@ -1,0 +1,21 @@
+unnamed package
+config
+functions
+functions.binary
+functions.commutative
+functions.special
+functions.unitary
+functions.unitary.combo
+functions.unitary.piecewise
+functions.unitary.specialcases
+functions.unitary.transforms
+functions.unitary.trig
+functions.unitary.trig.inverse
+functions.unitary.trig.normal
+parsing
+tools
+tools.exceptions
+tools.helperclasses
+tools.integration
+tools.singlevariable
+ui
